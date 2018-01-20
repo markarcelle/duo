@@ -3,7 +3,7 @@
 # Customize Options: Must Change
 #
 # Title:
-title: arcelle.com
+title: http://arcelle.com
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
@@ -19,7 +19,7 @@ baseurl: "/duo/"
 twitter:
   username: "markarcelle"
 author:
-  twitter: "chibicode"
+  twitter: "markarcelle"
 
 # Set default og:image
 # From Unsplash: https://unsplash.com/photos/1_CMoFsPfso
