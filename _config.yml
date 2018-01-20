@@ -3,11 +3,11 @@
 # Customize Options: Must Change
 #
 # Title:
-title: Duo, A Simple Jekyll Theme
+title: arcelle.com
 
 # Where the page will be deployed.
 # If it's https://foo.com/bar, just write "https://foo.com"
-url: "https://chibicode.github.io"
+url: ""
 
 # If you're deployging to a subdirectory (https://foo.com/bar/)
 # Then write "/bar/". Otherwise, write:
@@ -17,7 +17,7 @@ baseurl: "/duo/"
 
 # Twitter IDs
 twitter:
-  username: "chibicode"
+  username: "markarcelle"
 author:
   twitter: "chibicode"
 
